@@ -11,5 +11,5 @@ class Users::OmniauthCallbacksController < ApplicationController
         end 
     end
 
-    
+        
 end
